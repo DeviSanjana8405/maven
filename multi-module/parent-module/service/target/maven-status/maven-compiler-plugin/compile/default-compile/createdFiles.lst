@@ -1,0 +1,4 @@
+com\example\App2.class
+com\example\ProductService.class
+com\example\InMemoryProductRepository.class
+com\example\ProductRepository.class
